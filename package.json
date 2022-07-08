@@ -1,0 +1,24 @@
+{
+  "name": "gc-documentai-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximevct/gc-documentai-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximevct/gc-documentai-sample/issues"
+  },
+  "homepage": "https://github.com/maximevct/gc-documentai-sample#readme",
+  "dependencies": {
+    "@google-cloud/documentai": "^4.1.0",
+    "dotenv": "^16.0.1"
+  }
+}
