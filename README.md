@@ -2,7 +2,7 @@
 
 ## How to use
 
-Create a file `config.json` in this format: 
+Create a file `config.json` in this format:
 
 ```json
 {
